@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
