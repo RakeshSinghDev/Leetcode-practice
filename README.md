@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0228-summary-ranges](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [3731-find-missing-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0039-combination-sum) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
