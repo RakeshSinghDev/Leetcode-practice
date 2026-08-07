@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0039-combination-sum) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
