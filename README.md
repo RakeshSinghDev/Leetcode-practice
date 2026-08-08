@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0035-search-insert-position) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
