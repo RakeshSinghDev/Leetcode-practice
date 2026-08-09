@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
