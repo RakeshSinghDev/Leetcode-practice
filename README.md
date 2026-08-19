@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1510-stone-game-iv) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -214,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
