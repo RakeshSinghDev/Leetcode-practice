@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -218,4 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
