@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1191-k-concatenation-maximum-sum) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1191-k-concatenation-maximum-sum) |
 | [1510-stone-game-iv](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bracket Sequences
