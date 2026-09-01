@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 ## Nim Game
