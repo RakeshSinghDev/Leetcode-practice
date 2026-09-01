@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
