@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1191-k-concatenation-maximum-sum) |
