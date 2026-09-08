@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
@@ -206,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
