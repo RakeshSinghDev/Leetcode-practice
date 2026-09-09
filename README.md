@@ -210,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
