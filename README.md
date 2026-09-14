@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1927-sum-game) |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
