@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1191-k-concatenation-maximum-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
