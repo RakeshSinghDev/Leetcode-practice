@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1140-stone-game-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
