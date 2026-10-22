@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
