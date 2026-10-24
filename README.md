@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [2409-count-days-spent-together](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
