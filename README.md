@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2390-removing-stars-from-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [2352-equal-row-and-column-pairs](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
