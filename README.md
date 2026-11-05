@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
