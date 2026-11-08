@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3310-remove-methods-from-project) |
 ## Math
