@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
