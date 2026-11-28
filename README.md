@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0455-assign-cookies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RakeshSinghDev/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
